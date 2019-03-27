@@ -1,0 +1,31 @@
+title: Your awesome title
+email: your-email@domain.com
+description: Aqui en https://reparaciones-madrid.com/antenistas/ tenemos los mejores antenistas y contamos con muy buenos servicios para ti
+
+baseurl: "/"
+url: http://keralahost.in/javiersanchez
+google_adsense: Your-adsense-code
+
+markdown: kramdown
+
+name: Your awesome title
+
+date: 2019-03-27 06:54:18 +0000
+permalink: /:year/:month/:day/:title
+
+logo: false
+sass:
+    load_paths:
+        - _sass
+        - bs
+paginate: 10
+adsid: ca-pub-8582082279264878
+domain_name: http://keralahost.in/javiersanchez/
+google_analytics: UA-31XXXXXX-X
+gems:
+  - jekyll-paginate
+  - jekyll-sitemap
+cover: 
+author_image: 
+
+author: javiersanchez
